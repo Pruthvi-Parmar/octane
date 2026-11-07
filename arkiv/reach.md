@@ -26,4 +26,4 @@ A new wallet still needs its first test USDT sent to it, because it can't swap w
 
 ## Will we keep building?
 
-*The builder should finish this section in their own words.*
+Yes. The next step is Whitechain mainnet, once official USDT arrives there. After a security review, I plan to bring in makers run by other people, find one payment partner, and aim for 10,000 real payments that anyone can check on chain. Arkiv stays the market's shared record throughout, so I'll also keep reporting what I learn about running a live market on it.

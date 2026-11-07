@@ -57,7 +57,7 @@ In the app, `pnpm makers` publishes on its own. `pnpm recompute-fade --maker 0xâ
 
 ## Demo video
 
-The journal link opens at **[timestamp to add after recording]**, from the Makers page.
+To see Swarm in use, open <https://octane.rishabhprajapati.me/makers> and press **Journal on Swarm** on any maker.
 
 ## What got in our way
 
