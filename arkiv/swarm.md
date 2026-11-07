@@ -57,7 +57,7 @@ In the app, `pnpm makers` publishes on its own. `pnpm recompute-fade --maker 0xâ
 
 ## Demo video
 
-To see Swarm in use, open <https://octane.rishabhprajapati.me/makers> and press **Journal on Swarm** on any maker.
+Swarm appears at **3:17** in the demo video, from the Makers page, and a maker's journal opens at **3:24**. To see it live, open <https://octane.rishabhprajapati.me/makers> and press **Journal on Swarm** on any maker.
 
 ## What got in our way
 
