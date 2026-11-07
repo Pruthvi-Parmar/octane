@@ -164,7 +164,7 @@ export function DeskPage() {
             It can start and stop makers and move their funds, so it only runs on its owner's machine. To be a maker, run Octane
             yourself and open this page there.{" "}
             <a
-              href="https://github.com/pruthviraj254/octane#run-your-own-maker"
+              href="https://github.com/Pruthvi-Parmar/octane#run-your-own-maker"
               className="underline underline-offset-2 transition-colors hover:text-ink"
             >
               How to run your own maker

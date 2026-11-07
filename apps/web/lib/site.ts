@@ -1,10 +1,10 @@
-export const REPO_URL = "https://github.com/pruthviraj254/octane";
+export const REPO_URL = "https://github.com/Pruthvi-Parmar/octane";
 export const DISCLOSURE_URL = `${REPO_URL}#ai-usage-disclosure`;
 
 /** Shown in the footer and on the About page. Add more links here and both pick them up. */
 export const BUILDER = {
   name: "Pruthvi Parmar",
-  links: [{ label: "GitHub", href: "https://github.com/pruthviraj254" }],
+  links: [{ label: "GitHub", href: "https://github.com/Pruthvi-Parmar" }],
 };
 
 export interface Faq {
